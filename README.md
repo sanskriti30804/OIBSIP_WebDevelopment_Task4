@@ -33,3 +33,6 @@ A visually appealing, frontend-only login authentication system that:
 ![Screenshot](registrationform.png)
 ![Screenshot](securepage.png)
 
+## Demo Video:
+👉 [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=449w0-qHoZg)
+
