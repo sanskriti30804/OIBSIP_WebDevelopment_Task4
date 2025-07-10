@@ -27,3 +27,9 @@ A visually appealing, frontend-only login authentication system that:
 - Validates input fields
 - Simulates authentication with styled feedback
 - Demonstrates the basics of UI interaction without backend
+  
+## Screenshot
+![Screenshot](emailform.png)
+![Screenshot](registrationform.png)
+![Screenshot](securepage.png)
+
